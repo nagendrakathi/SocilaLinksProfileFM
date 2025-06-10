@@ -25,8 +25,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://nagendrakathi.github.io/SocilaLinksProfileFM/)
+- Solution URL: [URL](https://github.com/nagendrakathi/SocilaLinksProfileFM/tree/main)
+- Live Site URL: [URL](https://nagendrakathi.github.io/SocilaLinksProfileFM/)
 
 ## My process
 
